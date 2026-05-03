@@ -1,17 +1,9 @@
 export default {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       fontFamily: {
-        rubik: ["Rubik", "sans-serif"],
-        open: ["Open Sans", "sans-serif"],
-      },
-
-      colors: {
-        secondary: "#F9BF29",
-        primary: "#35736E",
-        lightColor: "#D9D9D9",
-        grayColor: "#6A6A6A",
+        lexend: ["Lexend", "sans-serif"],
       },
     },
   },
