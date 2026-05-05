@@ -3,9 +3,13 @@ import { RiSearchLine } from "@remixicon/react";
 function SearchBar() {
   return (
     <div
-      className="bg-white border border-gray-300 rounded-full overflow-hidden
- w-xs sm:w-96 shadow-util focus-within:border-lime-600 p-0.5
- focus-within:ring-1 focus-within:ring-lime-600 transition-all flex
+      className="
+       bg-white border border-gray-300
+       rounded-full overflow-hidden
+       w-xs sm:w-96 shadow-util
+      focus-within:border-lime-600 p-0.5
+      focus-within:ring-1 focus-within:ring-lime-600 
+      transition-all flex
  "
     >
       <input

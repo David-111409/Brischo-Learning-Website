@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  height: 1000px;
+}
 /* Google font */
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 

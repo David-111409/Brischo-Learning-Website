@@ -13,6 +13,7 @@
     "@remixicon/react": "^4.9.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
+    "react-fast-marquee": "^1.6.5",
     "remixicon": "^4.9.1"
   },
   "devDependencies": {

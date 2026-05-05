@@ -8,7 +8,7 @@ import { useState } from "react";
 function Header() {
   const [open, setOpen] = useState(false);
   return (
-    <header className="sticky top-0 left-0 py-4 border-b border-neutral-200 z-50">
+    <header className="sticky top-0 left-0 py-4 bg-white border-b border-neutral-200 z-50">
       <section className="px-4 sm:px-8">
         <div className="flex justify-between items-center gap-5">
           {/* logo  */}
