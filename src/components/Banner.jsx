@@ -1,6 +1,7 @@
 import { brandBannerImgs } from "../constant/data";
 import MarqueeLib from "react-fast-marquee";
 const Marquee = MarqueeLib.default;
+
 function Banner() {
   return (
     <section className="bg-neutral-900 py-4 -skew-y-3">
