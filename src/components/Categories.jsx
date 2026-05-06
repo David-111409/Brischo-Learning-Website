@@ -1,12 +1,11 @@
 import { categoriesItems } from "../constant/data";
 
 function Categories() {
-  console.log(categoriesItems);
   return (
     <section className="py-20">
       <div className="container">
         <h2 className="section-title text-center">
-          Explore 4000+ Free <br /> Online courses{" "}
+          Explore 4000+ Free <br /> Online courses
         </h2>
 
         {/* wrapper  */}
