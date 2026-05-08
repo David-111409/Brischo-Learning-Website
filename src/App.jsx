@@ -5,6 +5,7 @@ import Banner from "./components/Banner";
 import Categories from "./components/Categories";
 import Courses from "./components/Courses";
 import WhyLearn from "./components/WhyLearn";
+import Testimonials from "./components/Testimonials";
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ function App() {
         <Categories />
         <Courses />
         <WhyLearn />
+        <Testimonials />
       </main>
       <Footer />
     </>

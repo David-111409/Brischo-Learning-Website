@@ -10,7 +10,7 @@ function WhyLearn() {
           <div className="max-w-[360px] pt-9 px-2.5 w-full bg-lime-600 shadow-img mx-auto rounded-t-full flex items-center justify-center overflow-hidden">
             <img
               src="/images/section-img.png"
-              alt="hero image"
+              alt="why learn image"
               width={440}
               height={592}
             />
